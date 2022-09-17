@@ -20,6 +20,6 @@ describe("Survey Model", function () {
         expect(result).to.equal("Error! Captcha input doesn't matched.");
     });
     it("Fake test for Jenkins test.", function () {
-        expect(1).to.equal(1);
+        expect(2).to.equal(2);
     });
 });
